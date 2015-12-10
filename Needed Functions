@@ -1,0 +1,5 @@
+void printPiece()
+bool isLegal(Int x, Int y, Int s)
+bool moveThroughPieces()
+char getPiece()
+
